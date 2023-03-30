@@ -1,3 +1,3 @@
 # Get-API
-Test com restAssur
-
+Test com restAssured.
+Validando nome atraves da documentação com dados da câmara dos deputa.
